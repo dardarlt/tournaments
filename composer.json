@@ -2,6 +2,6 @@
     "name": "dardarlt/tournaments",
     "description": "Tournament runner",
     "autoload": {
-        "psr-0": { "Dardarlt\\Tournaments": "." }
+        "psr-0": { "Dardarlt": "./" }
     }
 }
