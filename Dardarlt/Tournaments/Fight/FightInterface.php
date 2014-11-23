@@ -6,7 +6,6 @@ interface FightInterface
 {
     const FIGHT_DRAW = 'Draw';
 
-
     public function makeFight($player1, $player2);
 
     public function getFighter1Index();

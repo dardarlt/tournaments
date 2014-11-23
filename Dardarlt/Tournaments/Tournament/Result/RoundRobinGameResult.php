@@ -28,6 +28,10 @@ class RoundRobinGameResult
         $this->winner = $winner;
     }
 
+    /**
+     * Create a unique pair id
+     * @return string
+     */
     public function getPairId()
     {
         return sprintf(

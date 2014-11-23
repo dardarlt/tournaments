@@ -3,9 +3,7 @@
 
 namespace Dardarlt\Tournaments\Event;
 
-
 use Symfony\Component\Console\Helper\ProgressBar;
-use Symfony\Component\Console\Helper\ProgressHelper;
 
 class FightEvent implements EventInterface
 {
